@@ -1,0 +1,6 @@
+{
+  "name": "TEKAD Digital Hub Kabupaten Jayapura",
+  "description": "Portal informasi dan pengetahuan Program Transformasi Ekonomi Kampung Terpadu (TEKAD) Kabupaten Jayapura, Papua berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

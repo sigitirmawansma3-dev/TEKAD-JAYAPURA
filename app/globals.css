@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@media print {
+  header, footer, nav, button:not(.printable-button) {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  main {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
